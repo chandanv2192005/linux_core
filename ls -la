@@ -1,0 +1,5 @@
+(ls -la): Pentesters and SOC Analysts rarely use just ls. We use flags (extra options) to get more data. Type ls -la.
+
+-l stands for "long format" (shows you file sizes, who owns the file, and permissions).
+
+-a stands for "all" (shows hidden files, which in Linux always start with a dot, like .bashrc). Hackers love hiding malicious files by putting a dot in front of the name!
