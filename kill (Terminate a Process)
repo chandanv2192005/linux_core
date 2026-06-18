@@ -1,0 +1,6 @@
+kill (Terminate a Process)
+Once you find a malicious process running using ps aux, you need a way to stop it immediately before it encrypts files or steals data.
+
+How to use it: Every process in Linux is assigned a unique number called a PID (Process ID). You type kill followed by that number.
+
+Example: sudo kill -9 1234 (The -9 flag forces the system to instantly kill process number 1234 without letting it gracefully close).
