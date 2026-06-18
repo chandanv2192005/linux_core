@@ -1,0 +1,10 @@
+cd (Change Directory)
+This is how you move from one folder to another (the equivalent of double-clicking a folder in Windows).
+
+How to use it: Type cd followed by the name of the folder you want to enter.
+
+Move forward into a folder: cd Documents
+
+Jump straight back to the absolute root of the system: cd /
+
+The Shortcut: To go back up one folder level, use two periods: cd ..
