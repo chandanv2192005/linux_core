@@ -1,0 +1,4 @@
+pwd (Print Working Directory)
+Because there are no visual folders to look at, it’s easy to get lost. Typing pwd is like looking at a map and seeing a giant "You Are Here" sticker. It tells you the exact path of the folder you are currently sitting in.
+
+How to use it: Just type it and hit enter.
