@@ -1,0 +1,6 @@
+touch (Create a Blank File)
+This command creates a brand new, empty file right inside your current directory.
+
+How to use it: touch <filename>
+
+Example: touch notes.txt (This creates an empty text file named notes.txt).
