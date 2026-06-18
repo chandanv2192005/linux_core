@@ -1,0 +1,7 @@
+The Pipe Operator (|)
+The pipe key (usually right above the Enter key on your keyboard) lets you take the output of one command and feed it directly into another command as an input. It lets you chain commands together like an assembly line.
+
+Real-World Example: Let's say you want to look at the auth.log file using less so you can scroll through it, but you only want to scroll through lines that mention the user "root". You can chain grep and less together:
+
+Bash
+grep "root" auth.log | less
