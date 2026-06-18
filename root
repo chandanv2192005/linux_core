@@ -1,0 +1,7 @@
+inside /, you will find standard folders like:
+
+/home: Where user files are kept (like your personal desktop, documents, etc.).
+
+/etc: Where the system's configuration files are stored (incredibly important for security!).
+
+/var/log: Where the system keeps its log files (your future best friend as a SOC Analyst).
