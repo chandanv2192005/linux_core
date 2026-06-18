@@ -1,0 +1,14 @@
+In Linux, there is a special, all-powerful user account named root.
+The root user completely bypasses all file permissions. It can read, write, delete, or execute absolutely any file on the system, regardless of what the rules say.
+
+Because it is so powerful, you should never log into a server as root for your normal daily work (one wrong command could delete the whole operating system). Instead, you log in as a normal user (like analyst), and use a special prefix command when you need administrative powers:
+
+sudo stands for "SuperUser Do". It’s the Linux equivalent of right-clicking a program in Windows and selecting "Run as Administrator."
+
+Example: If you try to read a highly protected security file like cat /etc/shadow (where the system hides user password hashes), the system will tell you "Permission Denied."
+
+To bypass this legally, you prefix it with sudo:
+
+Bash
+sudo cat /etc/shadow
+The system will ask for your password, verify you are authorized to use administrative powers, and then execute the command as if you were the root user.
