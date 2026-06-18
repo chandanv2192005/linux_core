@@ -1,0 +1,3 @@
+top: This opens a live, real-time dashboard (like Windows Task Manager) showing active processes.
+
+SOC Application: If you run ps aux and see a process named hidden_malware running under the root user, you've found the threat.
