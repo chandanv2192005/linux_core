@@ -1,0 +1,5 @@
+Linux is inherently a multi-user operating system, which means security is built directly into its core design. Every single file and directory in Linux has strict ownership and permission rules attached to it.
+
+If you type ls -l inside a directory, you won’t just see the file names. You will see a strange string of characters on the far left that looks like this:
+
+-rwxr-xr--
