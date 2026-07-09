@@ -3,7 +3,7 @@ Kernel	The core of the Linux operating system whose function is to virtualize an
 Shell	A command-line interface (CLI), also known as a shell that a user can enter commands into to execute the kernel's functions.
 System Utility	Makes available to the user all of the operating system's functionality.
  
-   
+    
  
  
  
