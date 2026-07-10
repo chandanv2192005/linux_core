@@ -9,5 +9,5 @@ The next 3 characters (r-x) belong to the Group $\rightarrow$ They can read and 
 The final 3 characters (r--) belong to Other $\rightarrow$ The general public can only read it. They cannot edit it or run it.
   -   rwx   r-x   r--
   |    |     |     |
-Type User Group Other     
+Type User Group Other      
  
