@@ -4,7 +4,7 @@ It can be customized to provide useful information to the user. The format can l
 
 The home directory for a user is marked with a tilde <~> and is the default folder when we log in.
 
-<username>@<hostname>[~]$
+<username>@<hostname>[~]$ 
 
 The dollar sign, in this case, stands for a user. As soon as we log in as root, the character changes to a hash <#> and looks like this:
 
