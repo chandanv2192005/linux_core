@@ -5,3 +5,4 @@ How to use it: Every process in Linux is assigned a unique number called a PID (
 
 Example: sudo kill -9 1234 (The -9 flag forces the system to instantly kill process number 1234 without letting it gracefully close).  
  
+ 
