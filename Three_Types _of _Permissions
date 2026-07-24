@@ -4,5 +4,5 @@ r (Read): Permission to view/open the contents of the file.
 
 w (Write): Permission to modify, edit, or delete the file.
 
-x (Execute): Permission to run the file like a program or a script. If a file doesn't have the x permission, the operating system will refuse to run it, even if it contains executable code.
+x (Execute): Permission to run the file like a program or a script. If a file doesn't have the x permission, the operating system will refuse to run it, even if it contains executable code. 
  
